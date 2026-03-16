@@ -31,7 +31,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  voice_command_manager: ^0.0.3
+  voice_command_manager: ^0.0.4
 ```
 
 ### 2. Configure Permissions
