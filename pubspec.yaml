@@ -1,6 +1,6 @@
 name: voice_command_manager
 description: A lightweight and powerful Flutter package to easily map spoken keywords to app actions. Perfect for adding hands-free navigation and voice-controlled features.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/amankrsinghh/voice_command_manager
 repository: https://github.com/amankrsinghh/voice_command_manager
 environment:

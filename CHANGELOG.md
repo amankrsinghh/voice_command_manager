@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Updated package documentation and ensured correct GitHub repository links and ownership.
+
 ## 0.0.2
 
 * Updated package metadata with correct author name and GitHub repository links.
