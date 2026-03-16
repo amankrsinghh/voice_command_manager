@@ -1,3 +1,5 @@
+![Voice Command Manager Banner](https://raw.githubusercontent.com/amankrsinghh/voice_command_manager/main/assets/banner.png)
+
 # Voice Command Manager 🎙️
 
 [![pub package](https://img.shields.io/pub/v/voice_command_manager.svg)](https://pub.dev/packages/voice_command_manager)

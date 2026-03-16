@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Added a custom banner image to the `README.md`.
+
 ## 0.0.3
 
 * Updated package documentation and ensured correct GitHub repository links and ownership.
