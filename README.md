@@ -105,7 +105,7 @@ class MyApp extends StatelessWidget {
 
 ## 📚 Example
 
-Check out the [example directory](https://github.com/amansingh/voice_command_manager/tree/main/example) for a fully functioning sample application demonstrating state management with voice commands.
+Check out the [example directory](https://github.com/amankrsinghh/voice_command_manager/tree/main/example) for a fully functioning sample application demonstrating state management with voice commands.
 
 ## 🤝 Contributing
 

@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Updated package metadata with correct author name and GitHub repository links.
+
 ## 0.0.1
 
 * Initial release of `voice_command_manager`.
